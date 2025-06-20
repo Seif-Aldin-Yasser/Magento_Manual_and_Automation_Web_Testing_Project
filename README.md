@@ -1,6 +1,6 @@
 ## 💻Sprints QA Task Automation Testing
 ## 🔗 Live Demo
-<a href="https://magento.softwaretestingboard.com/men/tops-men/hoodies-and-sweatshirts-men.html" target="_blank">👉 Click Here to View the Link</a>
+<a href="https://magento.softwaretestingboard.com/men/tops-men/hoodies-and-sweatshirts-men.html" target="_blank">👉 Click Here to View</a>
 
 ---
 
