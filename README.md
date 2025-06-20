@@ -28,15 +28,16 @@
 
 ### Step 1: Clone the Repo
 
-```bash
-git clone https://github.com/your-username/magento-automation.git
-cd magento-automation
+```cmd
+git clone https://github.com/Seif-Aldin-Yasser/Sprints_QA_Task.git
 ```
-
+```cmd
+cd Sprints_QA_Task
+```
 ### Step 2: Install Dependencies
 
 Make sure you have:
-- Java 11+
+- Java 11 and Above
 - Maven
 - Chrome Browser
 - Edge Browser
@@ -44,13 +45,13 @@ Make sure you have:
 
 Then run:
 
-```bash
+```cmd
 mvn clean install
 ```
 
 ### Step 3: Execute Tests
 
-```bash
+```cmd
 mvn test
 ```
 
