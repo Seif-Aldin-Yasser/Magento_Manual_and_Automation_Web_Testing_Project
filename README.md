@@ -1,0 +1,65 @@
+## Sprints QA Task Automation Testing
+---
+<a href="https://magento.softwaretestingboard.com/men/tops-men/hoodies-and-sweatshirts-men.html" target="_blank">👉 Click Here to View the Link</a>
+
+---
+
+## 📁 What's Included
+
+- ✅ **Test Cases** – Positive & negative scenarios for product search and add items to cart.
+- ✅ **Page Object Model** – Clean separation of UI elements and logic  
+- ✅ **Selenium + Java + TestNG** – Robust and scalable test automation stack  
+- ✅ **Maven Project** – For dependency management  
+- ✅ **TestNG Report** – View pass/fail test execution summary  
+- ✅ **README Instructions** – For setup and test execution  
+---
+
+## ✅ What’s Tested
+
+### Automated Testing
+
+- 🛒 Add to Cart: Select size/color and validate cart updates  
+- 🔍 Search: Valid and invalid product search validation  
+- 💳 Checkout: Form validation and order flow verification  
+- ❌ Error Handling: Missing selections and blank form entries  
+---
+
+## ⚙️ How to Run Automated Tests (Maven + TestNG)
+
+### Step 1: Clone the Repo
+
+```bash
+git clone https://github.com/your-username/magento-automation.git
+cd magento-automation
+```
+
+### Step 2: Install Dependencies
+
+Make sure you have:
+- Java 11+
+- Maven
+- Chrome Browser
+- Edge Browser
+- Firefox Browser
+
+Then run:
+
+```bash
+mvn clean install
+```
+
+### Step 3: Execute Tests
+
+```bash
+mvn test
+```
+
+### Step 4: View Test Report
+
+After execution, view the default TestNG HTML report in:
+
+```
+test-output/index.html
+```
+
+
