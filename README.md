@@ -18,7 +18,7 @@
 
 ---
 
-## ⚙️ Automated Testing
+## ⚙️ Automation Testing
 
 - 🛒 Add to Cart: Select size/color and validate cart updates  
 - 🔍 Search: Valid and invalid product search validation  
