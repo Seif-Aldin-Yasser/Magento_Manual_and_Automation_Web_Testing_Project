@@ -18,10 +18,10 @@ public class BaseTest {
     public void setup() {
         WebDriverManager.edgedriver().setup();
         driver = new EdgeDriver();
-        driver.manage().window().maximize();
-        // Implicit wait (can be used for general waiting, but explicit waits are preferred for specific elements)
-        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
-        wait = new WebDriverWait(driver, Duration.ofSeconds(20)); // Explicit wait
+        driver.manage().window().maximize();                   
+
+driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+        wait = new WebDriverWait(driver, Duration.ofSeconds(20));
         driver.get(BASE_URL);
     }
 
