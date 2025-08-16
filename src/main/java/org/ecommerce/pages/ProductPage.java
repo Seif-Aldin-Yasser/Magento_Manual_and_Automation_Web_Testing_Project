@@ -12,12 +12,8 @@ import java.time.Duration;
 public class ProductPage {
     private WebDriver driver;
     private WebDriverWait wait;
-
-    // Locators
-    // Note: Using more robust locators like XPath or CSS selectors that target specific attributes
-    // instead of just `className` which can be dynamic or non-unique.
-    private By sizeOptionLocator = By.cssSelector(".swatch-option.text"); // Targets any size option
-    private By colorOptionLocator = By.cssSelector(".swatch-option.color"); // Targets any color option
+    private By sizeOptionLocator = By.cssSelector(".swatch-option.text"); 
+    private By colorOptionLocator = By.cssSelector(".swatch-option.color"); 
     private By addToCartButton = By.id("product-addtocart-button");
     private By productAddedMessage = By.cssSelector(".message-success.success.message");
 
