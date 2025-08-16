@@ -1,4 +1,4 @@
-## 💻Magento - Web Manual and Automation Testing Project
+## 💻Magento - Manual and Automation Web Testing Project
 ## 🔗 Live Demo
 <a href="https://magento.softwaretestingboard.com/men/tops-men/hoodies-and-sweatshirts-men.html" target="_blank">👉 Click Here to View</a>
 
