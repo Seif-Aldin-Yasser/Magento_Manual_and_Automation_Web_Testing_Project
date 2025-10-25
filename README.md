@@ -6,7 +6,7 @@
 
 ## 📁 What's Included
 
-- ✅ **Test Cases** – Positive & negative scenarios for product search and add items to cart.
+- ✅ **Test Cases** – Positive & negative scenarios for product search and add items to cart
 - ✅ **Page Object Model** – Clean separation of UI elements and logic  
 - ✅ **Selenium + Java + TestNG** – Robust and scalable test automation stack  
 - ✅ **Maven Project** – For dependency management  
@@ -31,10 +31,10 @@
 ### Step 1: Clone the Repo
 
 ```cmd
-git clone https://github.com/Seif-Aldin-Yasser/Sprints_QA_Task.git
+git clone https://github.com/Seif-Aldin-Yasser/Magento_Manual_and_Automation_Web_Testing_Project.git
 ```
 ```cmd
-cd Sprints_QA_Task
+cd Magento_Manual_and_Automation_Web_Testing_Project
 ```
 ### Step 2: Install Dependencies
 
