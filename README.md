@@ -20,10 +20,10 @@
 
 ## ⚙️ Automation Testing
 
-- 🛒 Add to Cart: Select size/color and validate cart updates  
-- 🔍 Search: Valid and invalid product search validation  
-- 💳 Checkout: Form validation and order flow verification  
-- ❌ Error Handling: Missing selections and blank form entries  
+- 🛒 **Add to Cart** — Select size/color and validate cart updates  
+- 🔍 **Search** — Valid and invalid product search validation  
+- 💳 **Checkout** — Form validation and order flow verification  
+- ❌ **Error Handling** — Missing selections and blank form entries  
 ---
 
 ## ⚙️ How to Run Automated Tests (Maven + TestNG)
